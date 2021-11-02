@@ -1,0 +1,262 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre2 {
+    background: linear-gradient(#000, #242424);
+    border-bottom-color: white;
+    border-bottom-style: double;
+    border-bottom-width: 4px;
+    border-left-color: white;
+    border-left-style: double;
+    border-left-width: 4px;
+    border-right-color: white;
+    border-right-style: double;
+    border-right-width: 4px;
+    border-top-color: white;
+    border-top-style: double;
+    border-top-width: 4px;
+    color: #FFF;
+    display: block;
+    font-family: Kaushan Script;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    width: auto
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    font-size: 1.125em;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    text-align: center
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: left
+    }
+.calibre7 {
+    display: block;
+    height: 800px;
+    overflow: hidden
+    }
+.calibre8 {
+    border-bottom-color: white;
+    border-bottom-style: double;
+    border-bottom-width: 6px;
+    border-left-color: white;
+    border-left-style: double;
+    border-left-width: 6px;
+    border-radius: 0;
+    border-right-color: white;
+    border-right-style: double;
+    border-right-width: 6px;
+    border-top-color: white;
+    border-top-style: double;
+    border-top-width: 6px;
+    display: block;
+    height: 580px;
+    max-width: 600px;
+    overflow: hidden;
+    position: relative;
+    top: 0
+    }
+.calibre9 {
+    background: rgba(0, 0, 0, 0.1);
+    display: block;
+    height: 500px;
+    left: 25px;
+    position: relative;
+    top: -545px;
+    width: 550px
+    }
+.calibre10 {
+    border-radius: 200px;
+    display: block;
+    height: 200px;
+    left: 200px;
+    overflow: hidden;
+    position: relative;
+    top: -1150px;
+    width: 200px
+    }
+.calibre11 {
+    color: white;
+    display: block;
+    font-family: Ubuntu Condensed
+    }
+.calibre12 {
+    background: rgba(0, 0, 0, 0.2);
+    border-bottom-color: white;
+    border-bottom-style: double;
+    border-bottom-width: 5px;
+    border-left-color: white;
+    border-left-style: double;
+    border-left-width: 5px;
+    border-right-color: white;
+    border-right-style: double;
+    border-right-width: 5px;
+    border-top-color: white;
+    border-top-style: double;
+    border-top-width: 5px;
+    display: block;
+    height: 200px;
+    left: 90px;
+    overflow: auto;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    position: relative;
+    top: -1150px;
+    width: 400px
+    }
+.calibre13 {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    display: block
+    }
+.calibre14 {
+    background: rgba(0, 0, 0, 0.2);
+    border-bottom-color: white;
+    border-bottom-style: double;
+    border-bottom-width: 5px;
+    border-left-color: white;
+    border-left-style: double;
+    border-left-width: 5px;
+    border-right-color: white;
+    border-right-style: double;
+    border-right-width: 5px;
+    border-top-color: white;
+    border-top-style: double;
+    border-top-width: 5px;
+    display: block;
+    height: 150px;
+    left: 60px;
+    overflow: auto;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    position: relative;
+    top: -1140px;
+    width: 200px
+    }
+.calibre15 {
+    background: rgba(0, 0, 0, 0.2);
+    border-bottom-color: white;
+    border-bottom-style: double;
+    border-bottom-width: 5px;
+    border-left-color: white;
+    border-left-style: double;
+    border-left-width: 5px;
+    border-right-color: white;
+    border-right-style: double;
+    border-right-width: 5px;
+    border-top-color: white;
+    border-top-style: double;
+    border-top-width: 5px;
+    display: block;
+    font-family: Josefin Sans;
+    height: 150px;
+    left: 310px;
+    overflow: auto;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    position: relative;
+    top: -1290px;
+    width: 200px
+    }
+.calibre16 {
+    color: white;
+    font-family: Ubuntu Condensed
+    }
+.calibre17 {
+    display: list-item;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.line-block {
+    display: block
+    }
+.toc {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.toc1 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.unnumbered {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: left
+    }
+
